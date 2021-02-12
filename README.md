@@ -1,6 +1,6 @@
 ## Agenda
 
-Project developed with Ruby on Rails to register contacts (CRUD).
+Api rest with Spring Boot and Docker.
 
 ## 📌 Index
 - ⚙ [Settings](#-settings)
