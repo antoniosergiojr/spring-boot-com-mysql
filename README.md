@@ -1,4 +1,4 @@
-## Agenda
+## Api Rest
 
 Api rest with Spring Boot and Docker.
 
@@ -9,7 +9,7 @@ Api rest with Spring Boot and Docker.
 ---
 
 ## ⚙ Settings
-  Install the [wsl2 docker on windows](https://github.com/codeedu/wsl2-docker-quickstart) and watch the [video](https://youtu.be/HR5Np1HmC7c).
+  Install the [wsl2 docker on windows](https://github.com/codeedu/wsl2-docker-quickstart).
   
 ---
 
