@@ -1,6 +1,6 @@
 ## Api Rest
 
-Api rest with Spring Boot and Docker.
+Project developed to access a Rest Api with Spring Boot and Docker.
 
 ## 📌 Index
 - ⚙ [Settings](#-settings)
